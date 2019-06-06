@@ -1,0 +1,3 @@
+/home/wzy/compile/histogram/build/CMakeFiles/edit_cache.dir
+/home/wzy/compile/histogram/build/CMakeFiles/rebuild_cache.dir
+/home/wzy/compile/histogram/build/CMakeFiles/histogram.dir
